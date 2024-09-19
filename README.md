@@ -17,6 +17,3 @@ The library is accompanied by a header file called libft.h, which contains proto
 
 ## Used Tests
 - Francinette: https://github.com/xicodomingues/francinette
-- libft-war-machine: https://github.com/0x050f/libft-war-machine
-- libftTester: https://github.com/Tripouille/libftTester
-- libft_file_checker: https://github.com/Nuno-Jesus/libft_file_checker
