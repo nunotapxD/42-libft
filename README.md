@@ -2,7 +2,7 @@
 
 This is the code for the libft library, a collection of custom-written C functions that are commonly used in many projects. The library includes functions for string manipulation, memory allocation, and linked list management, among others.
 
-The code is divided into three parts: Part 1, Part 2, and Bonus.
+The code is divided into three parts: Part 1, Part 2.
 
 ## Instructions
 To compile the code, run `make` in the terminal. This will create a library called `libft.a`.
