@@ -6,7 +6,7 @@
 /*   By: ntomas-a <ntomas-a@student.42porto.com>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/10/23 11:07:36 by ntomas-a          #+#    #+#             */
-/*   Updated: 2024/10/23 11:07:46 by ntomas-a         ###   ########.fr       */
+/*   Updated: 2024/10/28 22:47:59 by ntomas-a         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -31,7 +31,7 @@ char	*ft_substr(char const *s, unsigned int start, size_t len)
 	while (i < len && start < str_len)
 	{
 		substr[i] = s[start];
-		i++;
+		i++; 
 		start++;
 	}
 	substr[i] = '\0';

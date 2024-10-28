@@ -6,7 +6,7 @@
 /*   By: ntomas-a <ntomas-a@student.42porto.com>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/10/23 11:07:09 by ntomas-a          #+#    #+#             */
-/*   Updated: 2024/10/23 11:07:10 by ntomas-a         ###   ########.fr       */
+/*   Updated: 2024/10/28 22:47:59 by ntomas-a         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -19,9 +19,9 @@ int	ft_toupper(int c)
 	return (c);
 }
 
-/*int   main(void)
+int   main(void)
 {
       int   c = 97;
 
       printf("%d", ft_toupper(c));
-}*/
+}

@@ -6,7 +6,7 @@
 /*   By: ntomas-a <ntomas-a@student.42porto.com>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/10/23 11:06:28 by ntomas-a          #+#    #+#             */
-/*   Updated: 2024/10/23 11:06:29 by ntomas-a         ###   ########.fr       */
+/*   Updated: 2024/10/28 22:47:59 by ntomas-a         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -94,7 +94,7 @@ char	**ft_split(char const	*s, char c)
 	return (array);
 }
 
-/*int	main(void)
+int	main(void)
 {
 	char	*str = "Samuel Sam The Kid o Putor";
 	char	sepa = ' ';
@@ -109,4 +109,4 @@ char	**ft_split(char const	*s, char c)
 	}
 	free(rest);
 	return (0);
-}*/
+}

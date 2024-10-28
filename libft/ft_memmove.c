@@ -6,7 +6,7 @@
 /*   By: ntomas-a <ntomas-a@student.42porto.com>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/10/23 11:11:02 by ntomas-a          #+#    #+#             */
-/*   Updated: 2024/10/23 11:11:02 by ntomas-a         ###   ########.fr       */
+/*   Updated: 2024/10/28 13:46:01 by ntomas-a         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -37,12 +37,12 @@ void	*ft_memmove(void *dest, const void *src, size_t n)
 
 /*int	main(void)
 {
-      char dest[] = "matadorasff";
-      char dest1[] = "matador";
-      char dest2[] = "matador";
-      char src[] = "samthekid";
-      char src1[] = "samthekid";
-      char src2[] = "samthekid";
+      char dest[] = "sammmthetkid";
+      char dest1[] = "samthekid";
+      char dest2[] = "samthekid";
+      char src[] = "jojony1";
+      char src1[] = "jojony";
+      char src2[] = "jojony";
 
       ft_memmove(dest, src, 8);
       puts(dest);
